@@ -2,7 +2,7 @@
 CC = gcc
 
 # Flags del compiler
-CFLAGS = -Wall -g
+CFLAGS = -Wall -g -O3
 
 # Librerie
 LIBS = -lpthread
