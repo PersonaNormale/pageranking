@@ -1,5 +1,4 @@
 # Progetto Lab 2
-## Domenico Sabatino Mat. 634348
 # Gestione dei thread nella funzione `pagerank`
 
 
